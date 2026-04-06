@@ -49,4 +49,4 @@ Typical range: 0° to 180°
 Controlled by pulse signals (e.g., 1ms–2ms pulse width)
 Conclusion
 
-The DHT22 sensor is useful for collecting environmental data (input), while the servo motor acts on commands to create movement (output). Together, they show how IoT systems can both sense and interact with the physical world.
+The DHT22 sensor is useful for collecting environmental data (input), while the servo motor acts on commands to create movement (output). Together, they show how IoT systems can both sense and interact with the physical world..
